@@ -1,6 +1,7 @@
 # EDA-on-Medium-Blogs
 
 Dataset Download From: https://www.kaggle.com/dorianlazar/medium-articles-dataset
+
 This dataset contains information about randomly chosen medium articles published in 2019 from these 7 publications:
 
 Towards Data Science
